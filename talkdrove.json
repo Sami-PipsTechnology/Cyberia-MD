@@ -10,7 +10,7 @@
     "env": {
       "SESSION_ID": {
         "description": "Put your SESSION_ID here. It starts with drakonis~",
-        "value":"",
+        "value":"drakonis~RitjHTgJ#vjfcYOnPzGizfQr7wetJf5spptod2jkvy0-SLJd9TCE",
         "required": true
         
       },
@@ -18,7 +18,7 @@
     "OWNER_NUMBER": {
       "description": "Enter owner number",
       "required": false,
-      "value": "12363621958"
+      "value": "447365576514"
 
     }  
   }
